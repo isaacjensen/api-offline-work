@@ -1,0 +1,6 @@
+export MONGO_HOST=localhost
+export MONGO_DB_NAME=assignment4
+export MONGO_USER=assignment4
+export MONGO_PASSWORD=hunter2
+
+export RABBITMQ_HOST=localhost
